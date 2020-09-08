@@ -75,4 +75,4 @@ Some very limited merging of precincts in the tabular election data and precinct
 This shapefile uses a UTM Zone 19 projection (ESPG:6348).
 
 ## Rating
-We give these shapefiles an A rating. All data were obtained from the state government and processing was conducted by a group trained by and working closely with MGGG.
+We give this shapefile an A rating. All data were obtained from the state government and processing was conducted by a group trained by and working closely with MGGG.
