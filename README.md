@@ -2,7 +2,7 @@
 This shapefile was obtained from the Maine Geolibrary website and processed by students in Diana Davis' Redistricting REU at Swarthmore College.
 
 ## Sources
-The Maine precinct shapefile was obtained from the [Maine Geolibrary](https://www.maine.gov/geolib/catalog.html), a GIS service of the State of Maine. Election data come from the [Maine Bureau of Corporations, Elections, & Commissions](https://www.maine.gov/sos/cec/elec/results/index.html). 2010 Decennial Census demographic data were downloaded from the [Census API](https://api.census.gov/data/2010/dec/sf1). The 2010 census block shapefile for Delaware was downloaded from the US Census Bureau’s [TIGER/Line Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html).
+The Maine precinct shapefile was obtained from the [Maine Geolibrary](https://www.maine.gov/geolib/catalog.html), a GIS service of the State of Maine. Election data come from the [Maine Bureau of Corporations, Elections, & Commissions](https://www.maine.gov/sos/cec/elec/results/index.html). 2010 Decennial Census demographic data were downloaded from the [Census API](https://api.census.gov/data/2010/dec/sf1). The 2010 census block shapefile for Maine was downloaded from the US Census Bureau’s [TIGER/Line Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html).
 
 
 ## Processing
